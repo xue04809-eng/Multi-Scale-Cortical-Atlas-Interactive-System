@@ -1,0 +1,1162 @@
+{
+    "1": {
+        "id": 2001,
+        "label": "Precentral_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 0.6398
+    },
+    "2": {
+        "id": 2002,
+        "label": "Precentral_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 0.7628
+    },
+    "3": {
+        "id": 2101,
+        "label": "Frontal_Sup_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.7373
+    },
+    "4": {
+        "id": 2102,
+        "label": "Frontal_Sup_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.4947
+    },
+    "5": {
+        "id": 2111,
+        "label": "Frontal_Sup_Orb_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.8235
+    },
+    "6": {
+        "id": 2112,
+        "label": "Frontal_Sup_Orb_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.769
+    },
+    "7": {
+        "id": 2201,
+        "label": "Frontal_Mid_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "confidence": 0.5029
+    },
+    "8": {
+        "id": 2202,
+        "label": "Frontal_Mid_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "confidence": 0.8523
+    },
+    "9": {
+        "id": 2211,
+        "label": "Frontal_Mid_Orb_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "confidence": 0.6339
+    },
+    "10": {
+        "id": 2212,
+        "label": "Frontal_Mid_Orb_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "confidence": 0.8555
+    },
+    "11": {
+        "id": 2301,
+        "label": "Frontal_Inf_Oper_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "VentralAttention",
+        "network_id": 4,
+        "confidence": 0.4271
+    },
+    "12": {
+        "id": 2302,
+        "label": "Frontal_Inf_Oper_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "confidence": 0.4422
+    },
+    "13": {
+        "id": 2311,
+        "label": "Frontal_Inf_Tri_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "confidence": 0.6481
+    },
+    "14": {
+        "id": 2312,
+        "label": "Frontal_Inf_Tri_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "confidence": 0.7251
+    },
+    "15": {
+        "id": 2321,
+        "label": "Frontal_Inf_Orb_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.7107
+    },
+    "16": {
+        "id": 2322,
+        "label": "Frontal_Inf_Orb_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.5506
+    },
+    "17": {
+        "id": 2331,
+        "label": "Rolandic_Oper_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 0.7238
+    },
+    "18": {
+        "id": 2332,
+        "label": "Rolandic_Oper_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 0.7332
+    },
+    "19": {
+        "id": 2401,
+        "label": "Supp_Motor_Area_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 0.377
+    },
+    "20": {
+        "id": 2402,
+        "label": "Supp_Motor_Area_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 0.5402
+    },
+    "21": {
+        "id": 2501,
+        "label": "Olfactory_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.98
+    },
+    "22": {
+        "id": 2502,
+        "label": "Olfactory_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 1.0
+    },
+    "23": {
+        "id": 2601,
+        "label": "Frontal_Sup_Medial_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.9186
+    },
+    "24": {
+        "id": 2602,
+        "label": "Frontal_Sup_Medial_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.9123
+    },
+    "25": {
+        "id": 2611,
+        "label": "Frontal_Med_Orb_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.8737
+    },
+    "26": {
+        "id": 2612,
+        "label": "Frontal_Med_Orb_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.7919
+    },
+    "27": {
+        "id": 2701,
+        "label": "Rectus_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.991
+    },
+    "28": {
+        "id": 2702,
+        "label": "Rectus_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.9768
+    },
+    "29": {
+        "id": 3001,
+        "label": "Insula_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "VentralAttention",
+        "network_id": 4,
+        "confidence": 0.722
+    },
+    "30": {
+        "id": 3002,
+        "label": "Insula_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "VentralAttention",
+        "network_id": 4,
+        "confidence": 0.6352
+    },
+    "31": {
+        "id": 4001,
+        "label": "Cingulum_Ant_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.8476
+    },
+    "32": {
+        "id": 4002,
+        "label": "Cingulum_Ant_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.8213
+    },
+    "33": {
+        "id": 4011,
+        "label": "Cingulum_Mid_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "VentralAttention",
+        "network_id": 4,
+        "confidence": 0.4606
+    },
+    "34": {
+        "id": 4012,
+        "label": "Cingulum_Mid_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "VentralAttention",
+        "network_id": 4,
+        "confidence": 0.5155
+    },
+    "35": {
+        "id": 4021,
+        "label": "Cingulum_Post_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.9923
+    },
+    "36": {
+        "id": 4022,
+        "label": "Cingulum_Post_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 1.0
+    },
+    "37": {
+        "id": 4101,
+        "label": "Hippocampus_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "38": {
+        "id": 4102,
+        "label": "Hippocampus_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.875
+    },
+    "39": {
+        "id": 4111,
+        "label": "ParaHippocampal_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.5957
+    },
+    "40": {
+        "id": 4112,
+        "label": "ParaHippocampal_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.5682
+    },
+    "41": {
+        "id": 4201,
+        "label": "Amygdala_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 1.0
+    },
+    "42": {
+        "id": 4202,
+        "label": "Amygdala_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "43": {
+        "id": 5001,
+        "label": "Calcarine_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.9512
+    },
+    "44": {
+        "id": 5002,
+        "label": "Calcarine_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.9545
+    },
+    "45": {
+        "id": 5011,
+        "label": "Cuneus_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.8883
+    },
+    "46": {
+        "id": 5012,
+        "label": "Cuneus_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.9786
+    },
+    "47": {
+        "id": 5021,
+        "label": "Lingual_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.9994
+    },
+    "48": {
+        "id": 5022,
+        "label": "Lingual_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.9989
+    },
+    "49": {
+        "id": 5101,
+        "label": "Occipital_Sup_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.9594
+    },
+    "50": {
+        "id": 5102,
+        "label": "Occipital_Sup_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.8736
+    },
+    "51": {
+        "id": 5201,
+        "label": "Occipital_Mid_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.8541
+    },
+    "52": {
+        "id": 5202,
+        "label": "Occipital_Mid_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.8745
+    },
+    "53": {
+        "id": 5301,
+        "label": "Occipital_Inf_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.9099
+    },
+    "54": {
+        "id": 5302,
+        "label": "Occipital_Inf_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 1.0
+    },
+    "55": {
+        "id": 5401,
+        "label": "Fusiform_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.5982
+    },
+    "56": {
+        "id": 5402,
+        "label": "Fusiform_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.6706
+    },
+    "57": {
+        "id": 6001,
+        "label": "Postcentral_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 0.9184
+    },
+    "58": {
+        "id": 6002,
+        "label": "Postcentral_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 0.7937
+    },
+    "59": {
+        "id": 6101,
+        "label": "Parietal_Sup_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "confidence": 0.7774
+    },
+    "60": {
+        "id": 6102,
+        "label": "Parietal_Sup_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "confidence": 0.933
+    },
+    "61": {
+        "id": 6201,
+        "label": "Parietal_Inf_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "confidence": 0.4396
+    },
+    "62": {
+        "id": 6202,
+        "label": "Parietal_Inf_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "confidence": 0.596
+    },
+    "63": {
+        "id": 6211,
+        "label": "SupraMarginal_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "VentralAttention",
+        "network_id": 4,
+        "confidence": 0.7426
+    },
+    "64": {
+        "id": 6212,
+        "label": "SupraMarginal_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "VentralAttention",
+        "network_id": 4,
+        "confidence": 0.5713
+    },
+    "65": {
+        "id": 6221,
+        "label": "Angular_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.9424
+    },
+    "66": {
+        "id": 6222,
+        "label": "Angular_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.782
+    },
+    "67": {
+        "id": 6301,
+        "label": "Precuneus_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.468
+    },
+    "68": {
+        "id": 6302,
+        "label": "Precuneus_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "confidence": 0.42
+    },
+    "69": {
+        "id": 6401,
+        "label": "Paracentral_Lobule_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 1.0
+    },
+    "70": {
+        "id": 6402,
+        "label": "Paracentral_Lobule_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 0.9249
+    },
+    "71": {
+        "id": 7001,
+        "label": "Caudate_L",
+        "hemi": "L",
+        "structure": "subcortical",
+        "mesh": "volume",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 1.0
+    },
+    "72": {
+        "id": 7002,
+        "label": "Caudate_R",
+        "hemi": "R",
+        "structure": "subcortical",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "73": {
+        "id": 7011,
+        "label": "Putamen_L",
+        "hemi": "L",
+        "structure": "subcortical",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "74": {
+        "id": 7012,
+        "label": "Putamen_R",
+        "hemi": "R",
+        "structure": "subcortical",
+        "mesh": "volume",
+        "network": "VentralAttention",
+        "network_id": 4,
+        "confidence": 1.0
+    },
+    "75": {
+        "id": 7021,
+        "label": "Pallidum_L",
+        "hemi": "L",
+        "structure": "subcortical",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "76": {
+        "id": 7022,
+        "label": "Pallidum_R",
+        "hemi": "R",
+        "structure": "subcortical",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "77": {
+        "id": 7101,
+        "label": "Thalamus_L",
+        "hemi": "L",
+        "structure": "subcortical",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "78": {
+        "id": 7102,
+        "label": "Thalamus_R",
+        "hemi": "R",
+        "structure": "subcortical",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "79": {
+        "id": 8101,
+        "label": "Heschl_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 0.9898
+    },
+    "80": {
+        "id": 8102,
+        "label": "Heschl_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 1.0
+    },
+    "81": {
+        "id": 8111,
+        "label": "Temporal_Sup_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 0.7332
+    },
+    "82": {
+        "id": 8112,
+        "label": "Temporal_Sup_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Somatomotor",
+        "network_id": 2,
+        "confidence": 0.6689
+    },
+    "83": {
+        "id": 8121,
+        "label": "Temporal_Pole_Sup_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.6661
+    },
+    "84": {
+        "id": 8122,
+        "label": "Temporal_Pole_Sup_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.5804
+    },
+    "85": {
+        "id": 8201,
+        "label": "Temporal_Mid_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.7807
+    },
+    "86": {
+        "id": 8202,
+        "label": "Temporal_Mid_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Default",
+        "network_id": 7,
+        "confidence": 0.5798
+    },
+    "87": {
+        "id": 8211,
+        "label": "Temporal_Pole_Mid_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.7103
+    },
+    "88": {
+        "id": 8212,
+        "label": "Temporal_Pole_Mid_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.6243
+    },
+    "89": {
+        "id": 8301,
+        "label": "Temporal_Inf_L",
+        "hemi": "L",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.4373
+    },
+    "90": {
+        "id": 8302,
+        "label": "Temporal_Inf_R",
+        "hemi": "R",
+        "structure": "cortex",
+        "mesh": "surface",
+        "network": "Limbic",
+        "network_id": 5,
+        "confidence": 0.3883
+    },
+    "91": {
+        "id": 9001,
+        "label": "Cerebelum_Crus1_L",
+        "hemi": "L",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 1.0
+    },
+    "92": {
+        "id": 9002,
+        "label": "Cerebelum_Crus1_R",
+        "hemi": "R",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 1.0
+    },
+    "93": {
+        "id": 9011,
+        "label": "Cerebelum_Crus2_L",
+        "hemi": "L",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "94": {
+        "id": 9012,
+        "label": "Cerebelum_Crus2_R",
+        "hemi": "R",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "95": {
+        "id": 9021,
+        "label": "Cerebelum_3_L",
+        "hemi": "L",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "96": {
+        "id": 9022,
+        "label": "Cerebelum_3_R",
+        "hemi": "R",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 1.0
+    },
+    "97": {
+        "id": 9031,
+        "label": "Cerebelum_4_5_L",
+        "hemi": "L",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.7955
+    },
+    "98": {
+        "id": 9032,
+        "label": "Cerebelum_4_5_R",
+        "hemi": "R",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 1.0
+    },
+    "99": {
+        "id": 9041,
+        "label": "Cerebelum_6_L",
+        "hemi": "L",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 1.0
+    },
+    "100": {
+        "id": 9042,
+        "label": "Cerebelum_6_R",
+        "hemi": "R",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 1.0
+    },
+    "101": {
+        "id": 9051,
+        "label": "Cerebelum_7b_L",
+        "hemi": "L",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "102": {
+        "id": 9052,
+        "label": "Cerebelum_7b_R",
+        "hemi": "R",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "103": {
+        "id": 9061,
+        "label": "Cerebelum_8_L",
+        "hemi": "L",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "104": {
+        "id": 9062,
+        "label": "Cerebelum_8_R",
+        "hemi": "R",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "105": {
+        "id": 9071,
+        "label": "Cerebelum_9_L",
+        "hemi": "L",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "106": {
+        "id": 9072,
+        "label": "Cerebelum_9_R",
+        "hemi": "R",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "107": {
+        "id": 9081,
+        "label": "Cerebelum_10_L",
+        "hemi": "L",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "108": {
+        "id": 9082,
+        "label": "Cerebelum_10_R",
+        "hemi": "R",
+        "structure": "cerebellum",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "109": {
+        "id": 9100,
+        "label": "Vermis_1_2",
+        "hemi": "Unknown",
+        "structure": "vermis",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "110": {
+        "id": 9110,
+        "label": "Vermis_3",
+        "hemi": "Unknown",
+        "structure": "vermis",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "111": {
+        "id": 9120,
+        "label": "Vermis_4_5",
+        "hemi": "Unknown",
+        "structure": "vermis",
+        "mesh": "volume",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 0.5714
+    },
+    "112": {
+        "id": 9130,
+        "label": "Vermis_6",
+        "hemi": "Unknown",
+        "structure": "vermis",
+        "mesh": "volume",
+        "network": "Visual",
+        "network_id": 1,
+        "confidence": 1.0
+    },
+    "113": {
+        "id": 9140,
+        "label": "Vermis_7",
+        "hemi": "Unknown",
+        "structure": "vermis",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "114": {
+        "id": 9150,
+        "label": "Vermis_8",
+        "hemi": "Unknown",
+        "structure": "vermis",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "115": {
+        "id": 9160,
+        "label": "Vermis_9",
+        "hemi": "Unknown",
+        "structure": "vermis",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    },
+    "116": {
+        "id": 9170,
+        "label": "Vermis_10",
+        "hemi": "Unknown",
+        "structure": "vermis",
+        "mesh": "volume",
+        "network": "Unknown",
+        "network_id": 0,
+        "confidence": 0.0
+    }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "brain_project",
+  "version": "1.0.0",
+  "description": "brain viewer development",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack serve --mode development --open",
+    "build": "webpack --mode production",
+    "build:dev": "webpack --mode development",
+    "build:prod": "webpack --mode production",
+    "backend": "cd backend && python app.py",
+    "backend:dev": "cd backend && python -Xfrozen_modules=off app.py"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^7.1.5",
+    "madge": "^8.0.0",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.105.4",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "npyjs": "^1.1.0",
+    "ractive": "^1.4.4",
+    "stats.js": "^0.17.0",
+    "three": "0.150.0"
+  }
+}

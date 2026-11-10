@@ -1,0 +1,7922 @@
+{
+    "181": {
+        "id": 181,
+        "label": "L_V1",
+        "shortLabel": "V1",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            67,
+            11,
+            255
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "182": {
+        "id": 182,
+        "label": "L_MST",
+        "shortLabel": "MST",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            50,
+            103,
+            133
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.6802
+    },
+    "183": {
+        "id": 183,
+        "label": "L_V6",
+        "shortLabel": "V6",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            65,
+            80,
+            179
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "184": {
+        "id": 184,
+        "label": "L_V2",
+        "shortLabel": "V2",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            21,
+            54,
+            237
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "185": {
+        "id": 185,
+        "label": "L_V3",
+        "shortLabel": "V3",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            15,
+            39,
+            232
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "186": {
+        "id": 186,
+        "label": "L_V4",
+        "shortLabel": "V4",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            17,
+            28,
+            216
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "187": {
+        "id": 187,
+        "label": "L_V8",
+        "shortLabel": "V8",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            27,
+            50,
+            206
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "188": {
+        "id": 188,
+        "label": "L_4",
+        "shortLabel": "4",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            33,
+            176,
+            21
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "189": {
+        "id": 189,
+        "label": "L_3b",
+        "shortLabel": "3b",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            36,
+            204,
+            23
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "190": {
+        "id": 190,
+        "label": "L_FEF",
+        "shortLabel": "FEF",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            133,
+            144,
+            136
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.7038
+    },
+    "191": {
+        "id": 191,
+        "label": "L_PEF",
+        "shortLabel": "PEF",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            142,
+            168,
+            156
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.543
+    },
+    "192": {
+        "id": 192,
+        "label": "L_55b",
+        "shortLabel": "55b",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            63,
+            92,
+            50
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.491
+    },
+    "193": {
+        "id": 193,
+        "label": "L_V3A",
+        "shortLabel": "V3A",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            9,
+            59,
+            248
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "194": {
+        "id": 194,
+        "label": "L_RSC",
+        "shortLabel": "RSC",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            156,
+            66,
+            134
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.455
+    },
+    "195": {
+        "id": 195,
+        "label": "L_POS2",
+        "shortLabel": "POS2",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            188,
+            89,
+            189
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.4409
+    },
+    "196": {
+        "id": 196,
+        "label": "L_V7",
+        "shortLabel": "V7",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            18,
+            72,
+            195
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "197": {
+        "id": 197,
+        "label": "L_IPS1",
+        "shortLabel": "IPS1",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            56,
+            113,
+            161
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.7768
+    },
+    "198": {
+        "id": 198,
+        "label": "L_FFC",
+        "shortLabel": "FFC",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            58,
+            92,
+            120
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.7703
+    },
+    "199": {
+        "id": 199,
+        "label": "L_V3B",
+        "shortLabel": "V3B",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            26,
+            49,
+            208
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.9965
+    },
+    "200": {
+        "id": 200,
+        "label": "L_LO1",
+        "shortLabel": "LO1",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            0,
+            54,
+            187
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "201": {
+        "id": 201,
+        "label": "L_LO2",
+        "shortLabel": "LO2",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            17,
+            36,
+            182
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "202": {
+        "id": 202,
+        "label": "L_PIT",
+        "shortLabel": "PIT",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            35,
+            45,
+            171
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "203": {
+        "id": 203,
+        "label": "L_MT",
+        "shortLabel": "MT",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            28,
+            88,
+            104
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.9088
+    },
+    "204": {
+        "id": 204,
+        "label": "L_A1",
+        "shortLabel": "A1",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            233,
+            25,
+            46
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "205": {
+        "id": 205,
+        "label": "L_PSL",
+        "shortLabel": "PSL",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            122,
+            85,
+            60
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.8492
+    },
+    "206": {
+        "id": 206,
+        "label": "L_SFL",
+        "shortLabel": "SFL",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            32,
+            53,
+            24
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.4538
+    },
+    "207": {
+        "id": 207,
+        "label": "L_PCV",
+        "shortLabel": "PCV",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            138,
+            127,
+            152
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.4113
+    },
+    "208": {
+        "id": 208,
+        "label": "L_STV",
+        "shortLabel": "STV",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            142,
+            90,
+            78
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.7097
+    },
+    "209": {
+        "id": 209,
+        "label": "L_7Pm",
+        "shortLabel": "7Pm",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            151,
+            181,
+            189
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.6623
+    },
+    "210": {
+        "id": 210,
+        "label": "L_7m",
+        "shortLabel": "7m",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            42,
+            32,
+            42
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9926
+    },
+    "211": {
+        "id": 211,
+        "label": "L_POS1",
+        "shortLabel": "POS1",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            83,
+            56,
+            99
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.6963
+    },
+    "212": {
+        "id": 212,
+        "label": "L_23d",
+        "shortLabel": "23d",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            124,
+            56,
+            87
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.7286
+    },
+    "213": {
+        "id": 213,
+        "label": "L_v23ab",
+        "shortLabel": "v23ab",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            28,
+            0,
+            12
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "214": {
+        "id": 214,
+        "label": "L_d23ab",
+        "shortLabel": "d23ab",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            67,
+            23,
+            50
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "215": {
+        "id": 215,
+        "label": "L_31pv",
+        "shortLabel": "31pv",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            54,
+            13,
+            42
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "216": {
+        "id": 216,
+        "label": "L_5m",
+        "shortLabel": "5m",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            47,
+            161,
+            52
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.9813
+    },
+    "217": {
+        "id": 217,
+        "label": "L_5mv",
+        "shortLabel": "5mv",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            154,
+            171,
+            138
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.9378
+    },
+    "218": {
+        "id": 218,
+        "label": "L_23c",
+        "shortLabel": "23c",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            208,
+            191,
+            196
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.8002
+    },
+    "219": {
+        "id": 219,
+        "label": "L_5L",
+        "shortLabel": "5L",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            62,
+            152,
+            64
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.8845
+    },
+    "220": {
+        "id": 220,
+        "label": "L_24dd",
+        "shortLabel": "24dd",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            70,
+            161,
+            45
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.9355
+    },
+    "221": {
+        "id": 221,
+        "label": "L_24dv",
+        "shortLabel": "24dv",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            125,
+            159,
+            73
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.776
+    },
+    "222": {
+        "id": 222,
+        "label": "L_7AL",
+        "shortLabel": "7AL",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            116,
+            193,
+            136
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.6546
+    },
+    "223": {
+        "id": 223,
+        "label": "L_SCEF",
+        "shortLabel": "SCEF",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            109,
+            149,
+            86
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.7924
+    },
+    "224": {
+        "id": 224,
+        "label": "L_6ma",
+        "shortLabel": "6ma",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            147,
+            181,
+            139
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.6101
+    },
+    "225": {
+        "id": 225,
+        "label": "L_7Am",
+        "shortLabel": "7Am",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            185,
+            240,
+            225
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.9368
+    },
+    "226": {
+        "id": 226,
+        "label": "L_7PL",
+        "shortLabel": "7PL",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            172,
+            245,
+            240
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 1.0
+    },
+    "227": {
+        "id": 227,
+        "label": "L_7PC",
+        "shortLabel": "7PC",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            66,
+            175,
+            110
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.5425
+    },
+    "228": {
+        "id": 228,
+        "label": "L_LIPv",
+        "shortLabel": "LIPv",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            66,
+            115,
+            161
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.9067
+    },
+    "229": {
+        "id": 229,
+        "label": "L_VIP",
+        "shortLabel": "VIP",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            53,
+            132,
+            141
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 1.0
+    },
+    "230": {
+        "id": 230,
+        "label": "L_MIP",
+        "shortLabel": "MIP",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            135,
+            203,
+            205
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.9952
+    },
+    "231": {
+        "id": 231,
+        "label": "L_1",
+        "shortLabel": "1",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            18,
+            193,
+            37
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "232": {
+        "id": 232,
+        "label": "L_2",
+        "shortLabel": "2",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            49,
+            176,
+            65
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.9294
+    },
+    "233": {
+        "id": 233,
+        "label": "L_3a",
+        "shortLabel": "3a",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            50,
+            219,
+            24
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "234": {
+        "id": 234,
+        "label": "L_6d",
+        "shortLabel": "6d",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            26,
+            158,
+            34
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.9749
+    },
+    "235": {
+        "id": 235,
+        "label": "L_6mp",
+        "shortLabel": "6mp",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            68,
+            159,
+            41
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.8266
+    },
+    "236": {
+        "id": 236,
+        "label": "L_6v",
+        "shortLabel": "6v",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            70,
+            171,
+            53
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.6107
+    },
+    "237": {
+        "id": 237,
+        "label": "L_p24pr",
+        "shortLabel": "p24pr",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            145,
+            132,
+            106
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.9027
+    },
+    "238": {
+        "id": 238,
+        "label": "L_33pr",
+        "shortLabel": "33pr",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            126,
+            112,
+            104
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.5217
+    },
+    "239": {
+        "id": 239,
+        "label": "L_a24pr",
+        "shortLabel": "a24pr",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            172,
+            127,
+            130
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.8615
+    },
+    "240": {
+        "id": 240,
+        "label": "L_p32pr",
+        "shortLabel": "p32pr",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            164,
+            147,
+            123
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.9986
+    },
+    "241": {
+        "id": 241,
+        "label": "L_a24",
+        "shortLabel": "a24",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            68,
+            15,
+            26
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "242": {
+        "id": 242,
+        "label": "L_d32",
+        "shortLabel": "d32",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            91,
+            42,
+            51
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.8785
+    },
+    "243": {
+        "id": 243,
+        "label": "L_8BM",
+        "shortLabel": "8BM",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            107,
+            87,
+            83
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.7751
+    },
+    "244": {
+        "id": 244,
+        "label": "L_p32",
+        "shortLabel": "p32",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            96,
+            34,
+            53
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "245": {
+        "id": 245,
+        "label": "L_10r",
+        "shortLabel": "10r",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            25,
+            15,
+            2
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9814
+    },
+    "246": {
+        "id": 246,
+        "label": "L_47m",
+        "shortLabel": "47m",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            100,
+            79,
+            70
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.796
+    },
+    "247": {
+        "id": 247,
+        "label": "L_8Av",
+        "shortLabel": "8Av",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            57,
+            59,
+            48
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.9053
+    },
+    "248": {
+        "id": 248,
+        "label": "L_8Ad",
+        "shortLabel": "8Ad",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            65,
+            70,
+            51
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9534
+    },
+    "249": {
+        "id": 249,
+        "label": "L_9m",
+        "shortLabel": "9m",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            47,
+            40,
+            23
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "250": {
+        "id": 250,
+        "label": "L_8BL",
+        "shortLabel": "8BL",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            31,
+            40,
+            19
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9839
+    },
+    "251": {
+        "id": 251,
+        "label": "L_9p",
+        "shortLabel": "9p",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            38,
+            45,
+            28
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9619
+    },
+    "252": {
+        "id": 252,
+        "label": "L_10d",
+        "shortLabel": "10d",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            38,
+            38,
+            26
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9548
+    },
+    "253": {
+        "id": 253,
+        "label": "L_8C",
+        "shortLabel": "8C",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            100,
+            87,
+            85
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.9992
+    },
+    "254": {
+        "id": 254,
+        "label": "L_44",
+        "shortLabel": "44",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            84,
+            89,
+            61
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.6164
+    },
+    "255": {
+        "id": 255,
+        "label": "L_45",
+        "shortLabel": "45",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            59,
+            68,
+            45
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.657
+    },
+    "256": {
+        "id": 256,
+        "label": "L_47l",
+        "shortLabel": "47l",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            49,
+            52,
+            32
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.845
+    },
+    "257": {
+        "id": 257,
+        "label": "L_a47r",
+        "shortLabel": "a47r",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            77,
+            77,
+            66
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.6949
+    },
+    "258": {
+        "id": 258,
+        "label": "L_6r",
+        "shortLabel": "6r",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            177,
+            214,
+            152
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.5271
+    },
+    "259": {
+        "id": 259,
+        "label": "L_IFJa",
+        "shortLabel": "IFJa",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            130,
+            125,
+            99
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.684
+    },
+    "260": {
+        "id": 260,
+        "label": "L_IFJp",
+        "shortLabel": "IFJp",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            133,
+            157,
+            130
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.8805
+    },
+    "261": {
+        "id": 261,
+        "label": "L_IFSp",
+        "shortLabel": "IFSp",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            99,
+            100,
+            90
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 1.0
+    },
+    "262": {
+        "id": 262,
+        "label": "L_IFSa",
+        "shortLabel": "IFSa",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            187,
+            200,
+            179
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.9346
+    },
+    "263": {
+        "id": 263,
+        "label": "L_p9-46v",
+        "shortLabel": "p9-46v",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            136,
+            146,
+            132
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 1.0
+    },
+    "264": {
+        "id": 264,
+        "label": "L_46",
+        "shortLabel": "46",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            207,
+            216,
+            201
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.8343
+    },
+    "265": {
+        "id": 265,
+        "label": "L_a9-46v",
+        "shortLabel": "a9-46v",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            144,
+            112,
+            127
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 1.0
+    },
+    "266": {
+        "id": 266,
+        "label": "L_9-46d",
+        "shortLabel": "9-46d",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            139,
+            116,
+            130
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.5798
+    },
+    "267": {
+        "id": 267,
+        "label": "L_9a",
+        "shortLabel": "9a",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            54,
+            55,
+            46
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.7264
+    },
+    "268": {
+        "id": 268,
+        "label": "L_10v",
+        "shortLabel": "10v",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            12,
+            37,
+            16
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.7538
+    },
+    "269": {
+        "id": 269,
+        "label": "L_a10p",
+        "shortLabel": "a10p",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            101,
+            77,
+            91
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.9797
+    },
+    "270": {
+        "id": 270,
+        "label": "L_10pp",
+        "shortLabel": "10pp",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            60,
+            67,
+            63
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.9117
+    },
+    "271": {
+        "id": 271,
+        "label": "L_11l",
+        "shortLabel": "11l",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            134,
+            110,
+            122
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.7213
+    },
+    "272": {
+        "id": 272,
+        "label": "L_13l",
+        "shortLabel": "13l",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            86,
+            64,
+            73
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.8697
+    },
+    "273": {
+        "id": 273,
+        "label": "L_OFC",
+        "shortLabel": "OFC",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            41,
+            39,
+            33
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 1.0
+    },
+    "274": {
+        "id": 274,
+        "label": "L_47s",
+        "shortLabel": "47s",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            65,
+            39,
+            34
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.6183
+    },
+    "275": {
+        "id": 275,
+        "label": "L_LIPd",
+        "shortLabel": "LIPd",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            152,
+            176,
+            201
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 1.0
+    },
+    "276": {
+        "id": 276,
+        "label": "L_6a",
+        "shortLabel": "6a",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            121,
+            192,
+            136
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.8165
+    },
+    "277": {
+        "id": 277,
+        "label": "L_i6-8",
+        "shortLabel": "i6-8",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            92,
+            100,
+            85
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.8975
+    },
+    "278": {
+        "id": 278,
+        "label": "L_s6-8",
+        "shortLabel": "s6-8",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            92,
+            98,
+            78
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.562
+    },
+    "279": {
+        "id": 279,
+        "label": "L_43",
+        "shortLabel": "43",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            148,
+            142,
+            67
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.5886
+    },
+    "280": {
+        "id": 280,
+        "label": "L_OP4",
+        "shortLabel": "OP4",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            110,
+            159,
+            46
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.926
+    },
+    "281": {
+        "id": 281,
+        "label": "L_OP1",
+        "shortLabel": "OP1",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            99,
+            160,
+            38
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.9573
+    },
+    "282": {
+        "id": 282,
+        "label": "L_OP2-3",
+        "shortLabel": "OP2-3",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            151,
+            127,
+            58
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "283": {
+        "id": 283,
+        "label": "L_52",
+        "shortLabel": "52",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            211,
+            73,
+            64
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.5418
+    },
+    "284": {
+        "id": 284,
+        "label": "L_RI",
+        "shortLabel": "RI",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            180,
+            66,
+            27
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.9708
+    },
+    "285": {
+        "id": 285,
+        "label": "L_PFcm",
+        "shortLabel": "PFcm",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            192,
+            145,
+            91
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.8511
+    },
+    "286": {
+        "id": 286,
+        "label": "L_PoI2",
+        "shortLabel": "PoI2",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            130,
+            127,
+            85
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.7229
+    },
+    "287": {
+        "id": 287,
+        "label": "L_TA2",
+        "shortLabel": "TA2",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            133,
+            47,
+            29
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.8494
+    },
+    "288": {
+        "id": 288,
+        "label": "L_FOP4",
+        "shortLabel": "FOP4",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            184,
+            150,
+            131
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 1.0
+    },
+    "289": {
+        "id": 289,
+        "label": "L_MI",
+        "shortLabel": "MI",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            158,
+            117,
+            108
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.9905
+    },
+    "290": {
+        "id": 290,
+        "label": "L_Pir",
+        "shortLabel": "Pir",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            87,
+            65,
+            64
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.6364
+    },
+    "291": {
+        "id": 291,
+        "label": "L_AVI",
+        "shortLabel": "AVI",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            139,
+            72,
+            82
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.7666
+    },
+    "292": {
+        "id": 292,
+        "label": "L_AAIC",
+        "shortLabel": "AAIC",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            84,
+            33,
+            40
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.6333
+    },
+    "293": {
+        "id": 293,
+        "label": "L_FOP1",
+        "shortLabel": "FOP1",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            156,
+            155,
+            89
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.9513
+    },
+    "294": {
+        "id": 294,
+        "label": "L_FOP3",
+        "shortLabel": "FOP3",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            177,
+            137,
+            101
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.9706
+    },
+    "295": {
+        "id": 295,
+        "label": "L_FOP2",
+        "shortLabel": "FOP2",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            100,
+            158,
+            54
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.7081
+    },
+    "296": {
+        "id": 296,
+        "label": "L_PFt",
+        "shortLabel": "PFt",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            131,
+            224,
+            138
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.8329
+    },
+    "297": {
+        "id": 297,
+        "label": "L_AIP",
+        "shortLabel": "AIP",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            138,
+            220,
+            170
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 1.0
+    },
+    "298": {
+        "id": 298,
+        "label": "L_EC",
+        "shortLabel": "EC",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            49,
+            50,
+            36
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 1.0
+    },
+    "299": {
+        "id": 299,
+        "label": "L_PreS",
+        "shortLabel": "PreS",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            92,
+            62,
+            90
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.6359
+    },
+    "300": {
+        "id": 300,
+        "label": "L_H",
+        "shortLabel": "H",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            59,
+            59,
+            41
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.6909
+    },
+    "301": {
+        "id": 301,
+        "label": "L_ProS",
+        "shortLabel": "ProS",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            92,
+            65,
+            176
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "302": {
+        "id": 302,
+        "label": "L_PeEc",
+        "shortLabel": "PeEc",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            62,
+            65,
+            54
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.9969
+    },
+    "303": {
+        "id": 303,
+        "label": "L_STGa",
+        "shortLabel": "STGa",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            59,
+            46,
+            28
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.5436
+    },
+    "304": {
+        "id": 304,
+        "label": "L_PBelt",
+        "shortLabel": "PBelt",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            203,
+            32,
+            8
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "305": {
+        "id": 305,
+        "label": "L_A5",
+        "shortLabel": "A5",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            98,
+            43,
+            8
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.9652
+    },
+    "306": {
+        "id": 306,
+        "label": "L_PHA1",
+        "shortLabel": "PHA1",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            71,
+            53,
+            77
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.7058
+    },
+    "307": {
+        "id": 307,
+        "label": "L_PHA3",
+        "shortLabel": "PHA3",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            102,
+            108,
+            120
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.8743
+    },
+    "308": {
+        "id": 308,
+        "label": "L_STSda",
+        "shortLabel": "STSda",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            78,
+            54,
+            36
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9531
+    },
+    "309": {
+        "id": 309,
+        "label": "L_STSdp",
+        "shortLabel": "STSdp",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            71,
+            61,
+            40
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.5981
+    },
+    "310": {
+        "id": 310,
+        "label": "L_STSvp",
+        "shortLabel": "STSvp",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            72,
+            61,
+            59
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9984
+    },
+    "311": {
+        "id": 311,
+        "label": "L_TGd",
+        "shortLabel": "TGd",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            36,
+            38,
+            26
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.8042
+    },
+    "312": {
+        "id": 312,
+        "label": "L_TE1a",
+        "shortLabel": "TE1a",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            10,
+            16,
+            0
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "313": {
+        "id": 313,
+        "label": "L_TE1p",
+        "shortLabel": "TE1p",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            97,
+            104,
+            96
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.6778
+    },
+    "314": {
+        "id": 314,
+        "label": "L_TE2a",
+        "shortLabel": "TE2a",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            67,
+            66,
+            59
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.5568
+    },
+    "315": {
+        "id": 315,
+        "label": "L_TF",
+        "shortLabel": "TF",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            64,
+            73,
+            58
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.9644
+    },
+    "316": {
+        "id": 316,
+        "label": "L_TE2p",
+        "shortLabel": "TE2p",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            116,
+            145,
+            132
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.669
+    },
+    "317": {
+        "id": 317,
+        "label": "L_PHT",
+        "shortLabel": "PHT",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            221,
+            254,
+            227
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.3647
+    },
+    "318": {
+        "id": 318,
+        "label": "L_PH",
+        "shortLabel": "PH",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            87,
+            130,
+            164
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.7582
+    },
+    "319": {
+        "id": 319,
+        "label": "L_TPOJ1",
+        "shortLabel": "TPOJ1",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            125,
+            96,
+            70
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.5423
+    },
+    "320": {
+        "id": 320,
+        "label": "L_TPOJ2",
+        "shortLabel": "TPOJ2",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            155,
+            163,
+            140
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.3496
+    },
+    "321": {
+        "id": 321,
+        "label": "L_TPOJ3",
+        "shortLabel": "TPOJ3",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            118,
+            145,
+            145
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.6837
+    },
+    "322": {
+        "id": 322,
+        "label": "L_DVT",
+        "shortLabel": "DVT",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            117,
+            110,
+            189
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.929
+    },
+    "323": {
+        "id": 323,
+        "label": "L_PGp",
+        "shortLabel": "PGp",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            154,
+            187,
+            229
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.6311
+    },
+    "324": {
+        "id": 324,
+        "label": "L_IP2",
+        "shortLabel": "IP2",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            180,
+            170,
+            179
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.7114
+    },
+    "325": {
+        "id": 325,
+        "label": "L_IP1",
+        "shortLabel": "IP1",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            118,
+            119,
+            127
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.7508
+    },
+    "326": {
+        "id": 326,
+        "label": "L_IP0",
+        "shortLabel": "IP0",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            115,
+            162,
+            208
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.6477
+    },
+    "327": {
+        "id": 327,
+        "label": "L_PFop",
+        "shortLabel": "PFop",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            184,
+            204,
+            145
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.7883
+    },
+    "328": {
+        "id": 328,
+        "label": "L_PF",
+        "shortLabel": "PF",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            255,
+            255,
+            228
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.7493
+    },
+    "329": {
+        "id": 329,
+        "label": "L_PFm",
+        "shortLabel": "PFm",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            134,
+            107,
+            115
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.8688
+    },
+    "330": {
+        "id": 330,
+        "label": "L_PGi",
+        "shortLabel": "PGi",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            57,
+            68,
+            52
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9538
+    },
+    "331": {
+        "id": 331,
+        "label": "L_PGs",
+        "shortLabel": "PGs",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            66,
+            73,
+            62
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.788
+    },
+    "332": {
+        "id": 332,
+        "label": "L_V6A",
+        "shortLabel": "V6A",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            39,
+            91,
+            167
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "333": {
+        "id": 333,
+        "label": "L_VMV1",
+        "shortLabel": "VMV1",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            61,
+            63,
+            159
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "334": {
+        "id": 334,
+        "label": "L_VMV3",
+        "shortLabel": "VMV3",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            50,
+            55,
+            163
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "335": {
+        "id": 335,
+        "label": "L_PHA2",
+        "shortLabel": "PHA2",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            87,
+            89,
+            88
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.9265
+    },
+    "336": {
+        "id": 336,
+        "label": "L_V4t",
+        "shortLabel": "V4t",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            14,
+            80,
+            133
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "337": {
+        "id": 337,
+        "label": "L_FST",
+        "shortLabel": "FST",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            86,
+            155,
+            155
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.8804
+    },
+    "338": {
+        "id": 338,
+        "label": "L_V3CD",
+        "shortLabel": "V3CD",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            17,
+            50,
+            185
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "339": {
+        "id": 339,
+        "label": "L_LO3",
+        "shortLabel": "LO3",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            52,
+            93,
+            162
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "340": {
+        "id": 340,
+        "label": "L_VMV2",
+        "shortLabel": "VMV2",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            67,
+            62,
+            163
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "341": {
+        "id": 341,
+        "label": "L_31pd",
+        "shortLabel": "31pd",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            62,
+            27,
+            52
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "342": {
+        "id": 342,
+        "label": "L_31a",
+        "shortLabel": "31a",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            142,
+            103,
+            131
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.624
+    },
+    "343": {
+        "id": 343,
+        "label": "L_VVC",
+        "shortLabel": "VVC",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            54,
+            63,
+            127
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "344": {
+        "id": 344,
+        "label": "L_25",
+        "shortLabel": "25",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            35,
+            27,
+            14
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.9377
+    },
+    "345": {
+        "id": 345,
+        "label": "L_s32",
+        "shortLabel": "s32",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            48,
+            38,
+            24
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.7812
+    },
+    "346": {
+        "id": 346,
+        "label": "L_pOFC",
+        "shortLabel": "pOFC",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            83,
+            53,
+            58
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 1.0
+    },
+    "347": {
+        "id": 347,
+        "label": "L_PoI1",
+        "shortLabel": "PoI1",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            172,
+            109,
+            103
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.8588
+    },
+    "348": {
+        "id": 348,
+        "label": "L_Ig",
+        "shortLabel": "Ig",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            105,
+            128,
+            35
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "349": {
+        "id": 349,
+        "label": "L_FOP5",
+        "shortLabel": "FOP5",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            161,
+            103,
+            105
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.9467
+    },
+    "350": {
+        "id": 350,
+        "label": "L_p10p",
+        "shortLabel": "p10p",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            92,
+            67,
+            79
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.6806
+    },
+    "351": {
+        "id": 351,
+        "label": "L_p47r",
+        "shortLabel": "p47r",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            126,
+            123,
+            113
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.8953
+    },
+    "352": {
+        "id": 352,
+        "label": "L_TGv",
+        "shortLabel": "TGv",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            41,
+            51,
+            40
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 1.0
+    },
+    "353": {
+        "id": 353,
+        "label": "L_MBelt",
+        "shortLabel": "MBelt",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            185,
+            28,
+            23
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.9659
+    },
+    "354": {
+        "id": 354,
+        "label": "L_LBelt",
+        "shortLabel": "LBelt",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            235,
+            21,
+            28
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "355": {
+        "id": 355,
+        "label": "L_A4",
+        "shortLabel": "A4",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            152,
+            43,
+            6
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "356": {
+        "id": 356,
+        "label": "L_STSva",
+        "shortLabel": "STSva",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            38,
+            36,
+            22
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "357": {
+        "id": 357,
+        "label": "L_TE1m",
+        "shortLabel": "TE1m",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            59,
+            45,
+            42
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9002
+    },
+    "358": {
+        "id": 358,
+        "label": "L_PI",
+        "shortLabel": "PI",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            116,
+            48,
+            46
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.7256
+    },
+    "359": {
+        "id": 359,
+        "label": "L_a32pr",
+        "shortLabel": "a32pr",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            133,
+            69,
+            90
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.725
+    },
+    "360": {
+        "id": 360,
+        "label": "L_p24",
+        "shortLabel": "p24",
+        "hemisphere": "left",
+        "hemisphere_id": 1,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            122,
+            37,
+            73
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9037
+    },
+    "1": {
+        "id": 1,
+        "label": "R_V1",
+        "shortLabel": "V1",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            69,
+            0,
+            255
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "2": {
+        "id": 2,
+        "label": "R_MST",
+        "shortLabel": "MST",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            49,
+            109,
+            132
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.8527
+    },
+    "3": {
+        "id": 3,
+        "label": "R_V6",
+        "shortLabel": "V6",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            74,
+            90,
+            180
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "4": {
+        "id": 4,
+        "label": "R_V2",
+        "shortLabel": "V2",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            28,
+            56,
+            236
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "5": {
+        "id": 5,
+        "label": "R_V3",
+        "shortLabel": "V3",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            22,
+            37,
+            235
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "6": {
+        "id": 6,
+        "label": "R_V4",
+        "shortLabel": "V4",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            22,
+            44,
+            221
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "7": {
+        "id": 7,
+        "label": "R_V8",
+        "shortLabel": "V8",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            27,
+            68,
+            212
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "8": {
+        "id": 8,
+        "label": "R_4",
+        "shortLabel": "4",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            34,
+            181,
+            28
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "9": {
+        "id": 9,
+        "label": "R_3b",
+        "shortLabel": "3b",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            44,
+            191,
+            28
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "10": {
+        "id": 10,
+        "label": "R_FEF",
+        "shortLabel": "FEF",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            139,
+            152,
+            149
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.5362
+    },
+    "11": {
+        "id": 11,
+        "label": "R_PEF",
+        "shortLabel": "PEF",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            159,
+            180,
+            168
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.7162
+    },
+    "12": {
+        "id": 12,
+        "label": "R_55b",
+        "shortLabel": "55b",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            113,
+            108,
+            81
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.3412
+    },
+    "13": {
+        "id": 13,
+        "label": "R_V3A",
+        "shortLabel": "V3A",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            22,
+            71,
+            247
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "14": {
+        "id": 14,
+        "label": "R_RSC",
+        "shortLabel": "RSC",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            155,
+            64,
+            135
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.5423
+    },
+    "15": {
+        "id": 15,
+        "label": "R_POS2",
+        "shortLabel": "POS2",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            210,
+            108,
+            204
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.4838
+    },
+    "16": {
+        "id": 16,
+        "label": "R_V7",
+        "shortLabel": "V7",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            29,
+            94,
+            191
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "17": {
+        "id": 17,
+        "label": "R_IPS1",
+        "shortLabel": "IPS1",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            62,
+            133,
+            173
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.6137
+    },
+    "18": {
+        "id": 18,
+        "label": "R_FFC",
+        "shortLabel": "FFC",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            55,
+            106,
+            126
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.7664
+    },
+    "19": {
+        "id": 19,
+        "label": "R_V3B",
+        "shortLabel": "V3B",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            41,
+            75,
+            221
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "20": {
+        "id": 20,
+        "label": "R_LO1",
+        "shortLabel": "LO1",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            16,
+            67,
+            201
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "21": {
+        "id": 21,
+        "label": "R_LO2",
+        "shortLabel": "LO2",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            21,
+            64,
+            184
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "22": {
+        "id": 22,
+        "label": "R_PIT",
+        "shortLabel": "PIT",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            40,
+            72,
+            184
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "23": {
+        "id": 23,
+        "label": "R_MT",
+        "shortLabel": "MT",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            32,
+            98,
+            106
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.9795
+    },
+    "24": {
+        "id": 24,
+        "label": "R_A1",
+        "shortLabel": "A1",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            236,
+            13,
+            47
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "25": {
+        "id": 25,
+        "label": "R_PSL",
+        "shortLabel": "PSL",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            192,
+            146,
+            135
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.5
+    },
+    "26": {
+        "id": 26,
+        "label": "R_SFL",
+        "shortLabel": "SFL",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            70,
+            55,
+            50
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.966
+    },
+    "27": {
+        "id": 27,
+        "label": "R_PCV",
+        "shortLabel": "PCV",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            135,
+            143,
+            157
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.6526
+    },
+    "28": {
+        "id": 28,
+        "label": "R_STV",
+        "shortLabel": "STV",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            144,
+            114,
+            107
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.7936
+    },
+    "29": {
+        "id": 29,
+        "label": "R_7Pm",
+        "shortLabel": "7Pm",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            155,
+            206,
+            193
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.6584
+    },
+    "30": {
+        "id": 30,
+        "label": "R_7m",
+        "shortLabel": "7m",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            51,
+            44,
+            54
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "31": {
+        "id": 31,
+        "label": "R_POS1",
+        "shortLabel": "POS1",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            90,
+            82,
+            120
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9792
+    },
+    "32": {
+        "id": 32,
+        "label": "R_23d",
+        "shortLabel": "23d",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            138,
+            52,
+            96
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9139
+    },
+    "33": {
+        "id": 33,
+        "label": "R_v23ab",
+        "shortLabel": "v23ab",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            32,
+            8,
+            27
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "34": {
+        "id": 34,
+        "label": "R_d23ab",
+        "shortLabel": "d23ab",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            71,
+            18,
+            49
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "35": {
+        "id": 35,
+        "label": "R_31pv",
+        "shortLabel": "31pv",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            71,
+            14,
+            52
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "36": {
+        "id": 36,
+        "label": "R_5m",
+        "shortLabel": "5m",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            45,
+            173,
+            52
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "37": {
+        "id": 37,
+        "label": "R_5mv",
+        "shortLabel": "5mv",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            141,
+            160,
+            128
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.7574
+    },
+    "38": {
+        "id": 38,
+        "label": "R_23c",
+        "shortLabel": "23c",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            210,
+            193,
+            194
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.7299
+    },
+    "39": {
+        "id": 39,
+        "label": "R_5L",
+        "shortLabel": "5L",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            66,
+            158,
+            68
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.8176
+    },
+    "40": {
+        "id": 40,
+        "label": "R_24dd",
+        "shortLabel": "24dd",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            72,
+            163,
+            48
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.9585
+    },
+    "41": {
+        "id": 41,
+        "label": "R_24dv",
+        "shortLabel": "24dv",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            121,
+            156,
+            72
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.5848
+    },
+    "42": {
+        "id": 42,
+        "label": "R_7AL",
+        "shortLabel": "7AL",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            117,
+            182,
+            122
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.6993
+    },
+    "43": {
+        "id": 43,
+        "label": "R_SCEF",
+        "shortLabel": "SCEF",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            143,
+            152,
+            110
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.7026
+    },
+    "44": {
+        "id": 44,
+        "label": "R_6ma",
+        "shortLabel": "6ma",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            154,
+            172,
+            139
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.5152
+    },
+    "45": {
+        "id": 45,
+        "label": "R_7Am",
+        "shortLabel": "7Am",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            170,
+            243,
+            213
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.9742
+    },
+    "46": {
+        "id": 46,
+        "label": "R_7PL",
+        "shortLabel": "7PL",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            161,
+            251,
+            228
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 1.0
+    },
+    "47": {
+        "id": 47,
+        "label": "R_7PC",
+        "shortLabel": "7PC",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            72,
+            178,
+            108
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.8563
+    },
+    "48": {
+        "id": 48,
+        "label": "R_LIPv",
+        "shortLabel": "LIPv",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            64,
+            126,
+            172
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 1.0
+    },
+    "49": {
+        "id": 49,
+        "label": "R_VIP",
+        "shortLabel": "VIP",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            57,
+            134,
+            147
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 1.0
+    },
+    "50": {
+        "id": 50,
+        "label": "R_MIP",
+        "shortLabel": "MIP",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            127,
+            203,
+            195
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.9955
+    },
+    "51": {
+        "id": 51,
+        "label": "R_1",
+        "shortLabel": "1",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            30,
+            197,
+            44
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "52": {
+        "id": 52,
+        "label": "R_2",
+        "shortLabel": "2",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            55,
+            180,
+            71
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.7655
+    },
+    "53": {
+        "id": 53,
+        "label": "R_3a",
+        "shortLabel": "3a",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            51,
+            225,
+            31
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "54": {
+        "id": 54,
+        "label": "R_6d",
+        "shortLabel": "6d",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            33,
+            160,
+            42
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.8584
+    },
+    "55": {
+        "id": 55,
+        "label": "R_6mp",
+        "shortLabel": "6mp",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            74,
+            159,
+            51
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.8469
+    },
+    "56": {
+        "id": 56,
+        "label": "R_6v",
+        "shortLabel": "6v",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            91,
+            185,
+            70
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.4662
+    },
+    "57": {
+        "id": 57,
+        "label": "R_p24pr",
+        "shortLabel": "p24pr",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            156,
+            146,
+            120
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.8564
+    },
+    "58": {
+        "id": 58,
+        "label": "R_33pr",
+        "shortLabel": "33pr",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            119,
+            94,
+            97
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.578
+    },
+    "59": {
+        "id": 59,
+        "label": "R_a24pr",
+        "shortLabel": "a24pr",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            179,
+            126,
+            132
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.9081
+    },
+    "60": {
+        "id": 60,
+        "label": "R_p32pr",
+        "shortLabel": "p32pr",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            179,
+            147,
+            133
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.9849
+    },
+    "61": {
+        "id": 61,
+        "label": "R_a24",
+        "shortLabel": "a24",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            74,
+            15,
+            37
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.972
+    },
+    "62": {
+        "id": 62,
+        "label": "R_d32",
+        "shortLabel": "d32",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            116,
+            42,
+            66
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.988
+    },
+    "63": {
+        "id": 63,
+        "label": "R_8BM",
+        "shortLabel": "8BM",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            134,
+            79,
+            92
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.5
+    },
+    "64": {
+        "id": 64,
+        "label": "R_p32",
+        "shortLabel": "p32",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            117,
+            51,
+            81
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "65": {
+        "id": 65,
+        "label": "R_10r",
+        "shortLabel": "10r",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            30,
+            4,
+            11
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9952
+    },
+    "66": {
+        "id": 66,
+        "label": "R_47m",
+        "shortLabel": "47m",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            87,
+            51,
+            56
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.6835
+    },
+    "67": {
+        "id": 67,
+        "label": "R_8Av",
+        "shortLabel": "8Av",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            82,
+            65,
+            66
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.8994
+    },
+    "68": {
+        "id": 68,
+        "label": "R_8Ad",
+        "shortLabel": "8Ad",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            63,
+            64,
+            50
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "69": {
+        "id": 69,
+        "label": "R_9m",
+        "shortLabel": "9m",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            51,
+            25,
+            24
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "70": {
+        "id": 70,
+        "label": "R_8BL",
+        "shortLabel": "8BL",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            39,
+            34,
+            25
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "71": {
+        "id": 71,
+        "label": "R_9p",
+        "shortLabel": "9p",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            67,
+            50,
+            51
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "72": {
+        "id": 72,
+        "label": "R_10d",
+        "shortLabel": "10d",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            34,
+            22,
+            23
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9042
+    },
+    "73": {
+        "id": 73,
+        "label": "R_8C",
+        "shortLabel": "8C",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            124,
+            86,
+            95
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.8917
+    },
+    "74": {
+        "id": 74,
+        "label": "R_44",
+        "shortLabel": "44",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            139,
+            97,
+            92
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.604
+    },
+    "75": {
+        "id": 75,
+        "label": "R_45",
+        "shortLabel": "45",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            94,
+            67,
+            60
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9954
+    },
+    "76": {
+        "id": 76,
+        "label": "R_47l",
+        "shortLabel": "47l",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            57,
+            25,
+            30
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "77": {
+        "id": 77,
+        "label": "R_a47r",
+        "shortLabel": "a47r",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            86,
+            66,
+            70
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.5957
+    },
+    "78": {
+        "id": 78,
+        "label": "R_6r",
+        "shortLabel": "6r",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            191,
+            211,
+            161
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.5873
+    },
+    "79": {
+        "id": 79,
+        "label": "R_IFJa",
+        "shortLabel": "IFJa",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            145,
+            124,
+            104
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.9813
+    },
+    "80": {
+        "id": 80,
+        "label": "R_IFJp",
+        "shortLabel": "IFJp",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            128,
+            149,
+            134
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.6458
+    },
+    "81": {
+        "id": 81,
+        "label": "R_IFSp",
+        "shortLabel": "IFSp",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            128,
+            107,
+            111
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.9338
+    },
+    "82": {
+        "id": 82,
+        "label": "R_IFSa",
+        "shortLabel": "IFSa",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            213,
+            210,
+            194
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.9046
+    },
+    "83": {
+        "id": 83,
+        "label": "R_p9-46v",
+        "shortLabel": "p9-46v",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            148,
+            132,
+            130
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.9977
+    },
+    "84": {
+        "id": 84,
+        "label": "R_46",
+        "shortLabel": "46",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            197,
+            208,
+            190
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.4431
+    },
+    "85": {
+        "id": 85,
+        "label": "R_a9-46v",
+        "shortLabel": "a9-46v",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            179,
+            126,
+            151
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 1.0
+    },
+    "86": {
+        "id": 86,
+        "label": "R_9-46d",
+        "shortLabel": "9-46d",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            165,
+            131,
+            150
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.4481
+    },
+    "87": {
+        "id": 87,
+        "label": "R_9a",
+        "shortLabel": "9a",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            67,
+            52,
+            55
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "88": {
+        "id": 88,
+        "label": "R_10v",
+        "shortLabel": "10v",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            0,
+            15,
+            4
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.5522
+    },
+    "89": {
+        "id": 89,
+        "label": "R_a10p",
+        "shortLabel": "a10p",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            110,
+            89,
+            114
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.7525
+    },
+    "90": {
+        "id": 90,
+        "label": "R_10pp",
+        "shortLabel": "10pp",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            49,
+            50,
+            56
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.998
+    },
+    "91": {
+        "id": 91,
+        "label": "R_11l",
+        "shortLabel": "11l",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            111,
+            95,
+            109
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.484
+    },
+    "92": {
+        "id": 92,
+        "label": "R_13l",
+        "shortLabel": "13l",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            105,
+            86,
+            93
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.9217
+    },
+    "93": {
+        "id": 93,
+        "label": "R_OFC",
+        "shortLabel": "OFC",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            46,
+            37,
+            39
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 1.0
+    },
+    "94": {
+        "id": 94,
+        "label": "R_47s",
+        "shortLabel": "47s",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            70,
+            36,
+            41
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.7188
+    },
+    "95": {
+        "id": 95,
+        "label": "R_LIPd",
+        "shortLabel": "LIPd",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            143,
+            178,
+            195
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.5199
+    },
+    "96": {
+        "id": 96,
+        "label": "R_6a",
+        "shortLabel": "6a",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            122,
+            196,
+            141
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.7553
+    },
+    "97": {
+        "id": 97,
+        "label": "R_i6-8",
+        "shortLabel": "i6-8",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            111,
+            118,
+            107
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.6908
+    },
+    "98": {
+        "id": 98,
+        "label": "R_s6-8",
+        "shortLabel": "s6-8",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            106,
+            91,
+            85
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.7314
+    },
+    "99": {
+        "id": 99,
+        "label": "R_43",
+        "shortLabel": "43",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            164,
+            142,
+            70
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.6133
+    },
+    "100": {
+        "id": 100,
+        "label": "R_OP4",
+        "shortLabel": "OP4",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            118,
+            161,
+            48
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.9929
+    },
+    "101": {
+        "id": 101,
+        "label": "R_OP1",
+        "shortLabel": "OP1",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            97,
+            151,
+            37
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "102": {
+        "id": 102,
+        "label": "R_OP2-3",
+        "shortLabel": "OP2-3",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            153,
+            126,
+            62
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "103": {
+        "id": 103,
+        "label": "R_52",
+        "shortLabel": "52",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            210,
+            69,
+            64
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.8113
+    },
+    "104": {
+        "id": 104,
+        "label": "R_RI",
+        "shortLabel": "RI",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            174,
+            85,
+            46
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "105": {
+        "id": 105,
+        "label": "R_PFcm",
+        "shortLabel": "PFcm",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            185,
+            151,
+            90
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.7502
+    },
+    "106": {
+        "id": 106,
+        "label": "R_PoI2",
+        "shortLabel": "PoI2",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            128,
+            125,
+            87
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.8212
+    },
+    "107": {
+        "id": 107,
+        "label": "R_TA2",
+        "shortLabel": "TA2",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            144,
+            44,
+            36
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.8964
+    },
+    "108": {
+        "id": 108,
+        "label": "R_FOP4",
+        "shortLabel": "FOP4",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            212,
+            159,
+            152
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.9985
+    },
+    "109": {
+        "id": 109,
+        "label": "R_MI",
+        "shortLabel": "MI",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            172,
+            127,
+            119
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 1.0
+    },
+    "110": {
+        "id": 110,
+        "label": "R_Pir",
+        "shortLabel": "Pir",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            57,
+            61,
+            76
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.5245
+    },
+    "111": {
+        "id": 111,
+        "label": "R_AVI",
+        "shortLabel": "AVI",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            160,
+            78,
+            96
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.4763
+    },
+    "112": {
+        "id": 112,
+        "label": "R_AAIC",
+        "shortLabel": "AAIC",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            84,
+            39,
+            53
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.4711
+    },
+    "113": {
+        "id": 113,
+        "label": "R_FOP1",
+        "shortLabel": "FOP1",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            163,
+            138,
+            92
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 1.0
+    },
+    "114": {
+        "id": 114,
+        "label": "R_FOP3",
+        "shortLabel": "FOP3",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            188,
+            140,
+            111
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 1.0
+    },
+    "115": {
+        "id": 115,
+        "label": "R_FOP2",
+        "shortLabel": "FOP2",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            102,
+            161,
+            57
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.6472
+    },
+    "116": {
+        "id": 116,
+        "label": "R_PFt",
+        "shortLabel": "PFt",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            107,
+            208,
+            119
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.7754
+    },
+    "117": {
+        "id": 117,
+        "label": "R_AIP",
+        "shortLabel": "AIP",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            132,
+            222,
+            170
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.9251
+    },
+    "118": {
+        "id": 118,
+        "label": "R_EC",
+        "shortLabel": "EC",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            47,
+            49,
+            39
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.9026
+    },
+    "119": {
+        "id": 119,
+        "label": "R_PreS",
+        "shortLabel": "PreS",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            92,
+            62,
+            96
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.5587
+    },
+    "120": {
+        "id": 120,
+        "label": "R_H",
+        "shortLabel": "H",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            61,
+            59,
+            44
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.6024
+    },
+    "121": {
+        "id": 121,
+        "label": "R_ProS",
+        "shortLabel": "ProS",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            93,
+            75,
+            177
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.9747
+    },
+    "122": {
+        "id": 122,
+        "label": "R_PeEc",
+        "shortLabel": "PeEc",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            56,
+            61,
+            53
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.9605
+    },
+    "123": {
+        "id": 123,
+        "label": "R_STGa",
+        "shortLabel": "STGa",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            59,
+            50,
+            33
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.8107
+    },
+    "124": {
+        "id": 124,
+        "label": "R_PBelt",
+        "shortLabel": "PBelt",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            208,
+            24,
+            15
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "125": {
+        "id": 125,
+        "label": "R_A5",
+        "shortLabel": "A5",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            115,
+            40,
+            7
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.5613
+    },
+    "126": {
+        "id": 126,
+        "label": "R_PHA1",
+        "shortLabel": "PHA1",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            66,
+            61,
+            80
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.5391
+    },
+    "127": {
+        "id": 127,
+        "label": "R_PHA3",
+        "shortLabel": "PHA3",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            86,
+            112,
+            123
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.8398
+    },
+    "128": {
+        "id": 128,
+        "label": "R_STSda",
+        "shortLabel": "STSda",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            73,
+            55,
+            42
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "129": {
+        "id": 129,
+        "label": "R_STSdp",
+        "shortLabel": "STSdp",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            97,
+            58,
+            53
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "130": {
+        "id": 130,
+        "label": "R_STSvp",
+        "shortLabel": "STSvp",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            95,
+            47,
+            65
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9976
+    },
+    "131": {
+        "id": 131,
+        "label": "R_TGd",
+        "shortLabel": "TGd",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            36,
+            37,
+            32
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.6488
+    },
+    "132": {
+        "id": 132,
+        "label": "R_TE1a",
+        "shortLabel": "TE1a",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            9,
+            8,
+            0
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "133": {
+        "id": 133,
+        "label": "R_TE1p",
+        "shortLabel": "TE1p",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            108,
+            103,
+            103
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.5514
+    },
+    "134": {
+        "id": 134,
+        "label": "R_TE2a",
+        "shortLabel": "TE2a",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            68,
+            59,
+            59
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.5099
+    },
+    "135": {
+        "id": 135,
+        "label": "R_TF",
+        "shortLabel": "TF",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            64,
+            79,
+            68
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.8288
+    },
+    "136": {
+        "id": 136,
+        "label": "R_TE2p",
+        "shortLabel": "TE2p",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            105,
+            147,
+            135
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.9917
+    },
+    "137": {
+        "id": 137,
+        "label": "R_PHT",
+        "shortLabel": "PHT",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            203,
+            255,
+            216
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.7516
+    },
+    "138": {
+        "id": 138,
+        "label": "R_PH",
+        "shortLabel": "PH",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            72,
+            139,
+            166
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.6104
+    },
+    "139": {
+        "id": 139,
+        "label": "R_TPOJ1",
+        "shortLabel": "TPOJ1",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            129,
+            100,
+            86
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.4787
+    },
+    "140": {
+        "id": 140,
+        "label": "R_TPOJ2",
+        "shortLabel": "TPOJ2",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            140,
+            174,
+            144
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.5944
+    },
+    "141": {
+        "id": 141,
+        "label": "R_TPOJ3",
+        "shortLabel": "TPOJ3",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            99,
+            150,
+            141
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.6315
+    },
+    "142": {
+        "id": 142,
+        "label": "R_DVT",
+        "shortLabel": "DVT",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            125,
+            130,
+            198
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 0.833
+    },
+    "143": {
+        "id": 143,
+        "label": "R_PGp",
+        "shortLabel": "PGp",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            145,
+            207,
+            218
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.5428
+    },
+    "144": {
+        "id": 144,
+        "label": "R_IP2",
+        "shortLabel": "IP2",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            189,
+            177,
+            180
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.9165
+    },
+    "145": {
+        "id": 145,
+        "label": "R_IP1",
+        "shortLabel": "IP1",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            128,
+            116,
+            128
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.8036
+    },
+    "146": {
+        "id": 146,
+        "label": "R_IP0",
+        "shortLabel": "IP0",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            109,
+            174,
+            213
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.5311
+    },
+    "147": {
+        "id": 147,
+        "label": "R_PFop",
+        "shortLabel": "PFop",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            172,
+            198,
+            136
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.795
+    },
+    "148": {
+        "id": 148,
+        "label": "R_PF",
+        "shortLabel": "PF",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            255,
+            251,
+            219
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.8269
+    },
+    "149": {
+        "id": 149,
+        "label": "R_PFm",
+        "shortLabel": "PFm",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            165,
+            119,
+            134
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.5535
+    },
+    "150": {
+        "id": 150,
+        "label": "R_PGi",
+        "shortLabel": "PGi",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            62,
+            63,
+            55
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "151": {
+        "id": 151,
+        "label": "R_PGs",
+        "shortLabel": "PGs",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            94,
+            76,
+            78
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9511
+    },
+    "152": {
+        "id": 152,
+        "label": "R_V6A",
+        "shortLabel": "V6A",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            53,
+            98,
+            170
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "153": {
+        "id": 153,
+        "label": "R_VMV1",
+        "shortLabel": "VMV1",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            57,
+            73,
+            167
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "154": {
+        "id": 154,
+        "label": "R_VMV3",
+        "shortLabel": "VMV3",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            45,
+            67,
+            174
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "155": {
+        "id": 155,
+        "label": "R_PHA2",
+        "shortLabel": "PHA2",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            78,
+            98,
+            98
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.5983
+    },
+    "156": {
+        "id": 156,
+        "label": "R_V4t",
+        "shortLabel": "V4t",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            15,
+            101,
+            132
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "157": {
+        "id": 157,
+        "label": "R_FST",
+        "shortLabel": "FST",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            72,
+            161,
+            150
+        ],
+        "network": "DorsalAttention",
+        "network_id": 3,
+        "yeoColor": [
+            0,
+            118,
+            14
+        ],
+        "confidence": 0.6037
+    },
+    "158": {
+        "id": 158,
+        "label": "R_V3CD",
+        "shortLabel": "V3CD",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            26,
+            73,
+            204
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "159": {
+        "id": 159,
+        "label": "R_LO3",
+        "shortLabel": "LO3",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            59,
+            107,
+            171
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "160": {
+        "id": 160,
+        "label": "R_VMV2",
+        "shortLabel": "VMV2",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            63,
+            75,
+            170
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "161": {
+        "id": 161,
+        "label": "R_31pd",
+        "shortLabel": "31pd",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            96,
+            31,
+            73
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "162": {
+        "id": 162,
+        "label": "R_31a",
+        "shortLabel": "31a",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            144,
+            101,
+            132
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9853
+    },
+    "163": {
+        "id": 163,
+        "label": "R_VVC",
+        "shortLabel": "VVC",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            57,
+            78,
+            133
+        ],
+        "network": "Visual",
+        "network_id": 1,
+        "yeoColor": [
+            120,
+            18,
+            134
+        ],
+        "confidence": 1.0
+    },
+    "164": {
+        "id": 164,
+        "label": "R_25",
+        "shortLabel": "25",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            30,
+            18,
+            15
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.9895
+    },
+    "165": {
+        "id": 165,
+        "label": "R_s32",
+        "shortLabel": "s32",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            31,
+            18,
+            12
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 0.5302
+    },
+    "166": {
+        "id": 166,
+        "label": "R_pOFC",
+        "shortLabel": "pOFC",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            89,
+            53,
+            66
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 1.0
+    },
+    "167": {
+        "id": 167,
+        "label": "R_PoI1",
+        "shortLabel": "PoI1",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            183,
+            107,
+            110
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.8514
+    },
+    "168": {
+        "id": 168,
+        "label": "R_Ig",
+        "shortLabel": "Ig",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            113,
+            128,
+            43
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 0.9963
+    },
+    "169": {
+        "id": 169,
+        "label": "R_FOP5",
+        "shortLabel": "FOP5",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            185,
+            100,
+            115
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.724
+    },
+    "170": {
+        "id": 170,
+        "label": "R_p10p",
+        "shortLabel": "p10p",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            100,
+            70,
+            87
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.6459
+    },
+    "171": {
+        "id": 171,
+        "label": "R_p47r",
+        "shortLabel": "p47r",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            154,
+            119,
+            122
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.666
+    },
+    "172": {
+        "id": 172,
+        "label": "R_TGv",
+        "shortLabel": "TGv",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            60,
+            63,
+            56
+        ],
+        "network": "Limbic",
+        "network_id": 5,
+        "yeoColor": [
+            220,
+            248,
+            164
+        ],
+        "confidence": 1.0
+    },
+    "173": {
+        "id": 173,
+        "label": "R_MBelt",
+        "shortLabel": "MBelt",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            192,
+            9,
+            25
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "174": {
+        "id": 174,
+        "label": "R_LBelt",
+        "shortLabel": "LBelt",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            227,
+            23,
+            31
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "175": {
+        "id": 175,
+        "label": "R_A4",
+        "shortLabel": "A4",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            160,
+            38,
+            11
+        ],
+        "network": "Somatomotor",
+        "network_id": 2,
+        "yeoColor": [
+            70,
+            130,
+            180
+        ],
+        "confidence": 1.0
+    },
+    "176": {
+        "id": 176,
+        "label": "R_STSva",
+        "shortLabel": "STSva",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            47,
+            34,
+            32
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 1.0
+    },
+    "177": {
+        "id": 177,
+        "label": "R_TE1m",
+        "shortLabel": "TE1m",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            86,
+            49,
+            59
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.8874
+    },
+    "178": {
+        "id": 178,
+        "label": "R_PI",
+        "shortLabel": "PI",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            125,
+            50,
+            55
+        ],
+        "network": "VentralAttention",
+        "network_id": 4,
+        "yeoColor": [
+            196,
+            58,
+            250
+        ],
+        "confidence": 0.4683
+    },
+    "179": {
+        "id": 179,
+        "label": "R_a32pr",
+        "shortLabel": "a32pr",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            161,
+            82,
+            113
+        ],
+        "network": "Frontoparietal",
+        "network_id": 6,
+        "yeoColor": [
+            230,
+            148,
+            34
+        ],
+        "confidence": 0.6252
+    },
+    "180": {
+        "id": 180,
+        "label": "R_p24",
+        "shortLabel": "p24",
+        "hemisphere": "right",
+        "hemisphere_id": 2,
+        "structure": "cortex",
+        "mesh": "surface",
+        "hcpColor": [
+            123,
+            40,
+            79
+        ],
+        "network": "Default",
+        "network_id": 7,
+        "yeoColor": [
+            205,
+            62,
+            78
+        ],
+        "confidence": 0.9324
+    }
+}

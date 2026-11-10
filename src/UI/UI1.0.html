@@ -1,0 +1,744 @@
+<!-- 导航栏 -->
+<div class="topbar">
+  <div class="topbar-left">
+    <div class="logo-area">
+      <img src="./image/logo.png" on-click="@this.fire('goHome')" style="cursor: pointer;" />
+    </div>
+  </div>
+
+  <div class="nav-btns">
+    <button class="file-btn" on-click="@this.fire('toggleScalarDrawer')">
+      File
+    </button>
+
+    <div class="export-dropdown" id="exportDropdown">
+      <button class="export-btn" id="exportToggleBtn">Export</button>
+      <div class="export-menu">
+        <button class="export-option" on-click="@this.fire('exportPanel')">
+          Advanced Export
+        </button>
+        <button class="export-option" on-click="@this.fire('exportPNG')">
+          PNG
+        </button>
+        <button class="export-option" on-click="@this.fire('exportSVG')">
+          SVG
+        </button>
+      </div>
+    </div>
+
+
+
+    <button id="parcelListBtn" class="nav-btn" title="Parcel List">
+      Parcels
+    </button>
+
+    <button id="lightingBtn" class="lighting-btn">Light</button>
+  </div>
+
+  <div class="topbar-actions">
+    <div class="search-area">
+      <input
+        id="searchInput"
+        class="search-input"
+        type="text"
+        placeholder="Search parcels..."
+        autocomplete="off"
+      />
+      <div id="searchResults" class="search-results" style="display:none;"></div>
+    </div>
+    <button class="theme-btn" on-click="@this.fire('toggleFullscreen')">
+      ⛶
+    </button>
+    <button class="theme-btn" on-click="changeTheme">{{themeIcon}}</button>
+  </div>
+
+  <div id="lightingPanel" class="lighting-panel">
+    <div class="lighting-header">
+      <span class="lighting-title"> Light Rendering </span>
+
+      <button id="lightingClose" class="lighting-close">×</button>
+    </div>
+
+    <div class="lighting-item">
+      <label> Ambient </label>
+
+      <input
+        id="ambientSlider"
+        type="range"
+        min="0"
+        max="1.5"
+        step="0.01"
+        value="1"
+      />
+
+      <span id="ambientValue"> 1 </span>
+    </div>
+
+    <div class="lighting-item">
+      <label> Spot Light </label>
+
+      <input
+        id="spotSlider"
+        type="range"
+        min="0"
+        max="2"
+        step="0.01"
+        value="1"
+      />
+
+      <span id="spotValue"> 1 </span>
+    </div>
+
+    <div class="lighting-footer">
+      <button id="lightingReset">Reset</button>
+    </div>
+  </div>
+
+  <div class="viewbar">
+    <div class="legend-group">
+      <!-- 图例 -->
+      <div id="legend"></div>
+
+      <!-- 颜色映射选择 -->
+      <div class="colormap-control">
+        <span>Colormap:</span>
+
+        <!-- 全局范围设置 -->
+        <div class="global-range-control" id="globalRangeControl" style="display:none;">
+          <span>Range:</span>
+          <input type="number" id="globalRangeMin" class="global-range-input" placeholder="Min" step="any" />
+          <span>-</span>
+          <input type="number" id="globalRangeMax" class="global-range-input" placeholder="Max" step="any" />
+          <button id="applyGlobalRange" class="apply-range-btn">Apply</button>
+        </div>
+
+        <div class="colormap-dropdown" id="colormapDropdown">
+          <div class="colormap-dropdown-trigger" id="colormapTrigger">
+            <span id="colormapTriggerLabel">Viridis</span>
+            <span class="dropdown-arrow">▾</span>
+          </div>
+          <div class="colormap-dropdown-menu" id="colormapMenu" style="display:none;">
+          </div>
+
+          <div id="customGradientPanel" class="custom-gradient-panel" style="display: none">
+            <div class="custom-gradient-header">
+              <span>Custom Gradient</span>
+              <button id="customGradientClose" class="custom-gradient-close">×</button>
+            </div>
+
+            <div class="custom-gradient-body">
+              <div class="custom-gradient-colors">
+                <div class="custom-gradient-color-item">
+                  <label>Start Color</label>
+                  <input type="color" id="customColor1" value="#0000ff" />
+                </div>
+                <div class="custom-gradient-color-item">
+                  <label>End Color</label>
+                  <input type="color" id="customColor2" value="#ff0000" />
+                </div>
+              </div>
+
+              <div class="custom-gradient-preview">
+                <label>Preview</label>
+                <canvas id="customGradientPreview" width="260" height="28"></canvas>
+              </div>
+
+              <div class="custom-gradient-steps">
+                <label>Steps</label>
+                <input type="number" id="customGradientSteps" value="10" min="2" max="256" />
+              </div>
+
+              <button id="applyGradientBtn" class="custom-gradient-apply">Apply Gradient</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 颜色映射模式选择 -->
+      <div class="color-mode-control">
+        <span>Color Range:</span>
+        <select id="colorModeSelect" class="color-mode-select" title="Choose how scalar values map to colors: Auto (per-dataset range), Fixed (0-1 range), or Real Values (unified range for comparison)">
+          <option value="auto" selected>Auto</option>
+          <option value="fixed">Fixed (0-1)</option>
+          <option value="real">Real Values</option>
+        </select>
+      </div>
+      <div id="playbackContainer"></div>
+    </div>
+
+    <!-- 三维视图区域 -->
+    <div class="view-selector">
+      <span class="view-title"> Views </span>
+
+      <div class="view-buttons">
+        <button
+          class-active="currentViewMode === 1"
+          on-click="@this.setViewMode(1)"
+        >
+          1
+        </button>
+
+        <button
+          class-active="currentViewMode === 2"
+          on-click="@this.setViewMode(2)"
+        >
+          2
+        </button>
+
+        <button
+          class-active="currentViewMode === 3"
+          on-click="@this.setViewMode(3)"
+        >
+          3
+        </button>
+
+        <button
+          class-active="currentViewMode === 4"
+          on-click="@this.setViewMode(4)"
+        >
+          4
+        </button>
+
+        <button
+          class-active="currentViewMode === 5"
+          on-click="@this.setViewMode(5)"
+        >
+          5
+        </button>
+
+        <button
+          class-active="currentViewMode === 6"
+          on-click="@this.setViewMode(6)"
+        >
+          6
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- =========================
+     Scalar File Drawer
+========================= -->
+
+<!-- 视图区域 -->
+
+<div id="viewsWrapper">
+  <!-- Scalar File Drawer -->
+  <div id="scalarDrawer" class="scalar-drawer {{showScalarDrawer ? 'show' : ''}}">
+    <div class="scalar-header">
+      <span class="scalar-title"> Files List </span>
+
+      <button class="scalar-close" on-click="@this.fire('toggleScalarDrawer')">
+        ×
+      </button>
+    </div>
+
+    <div id="scalarFileList" class="scalar-file-list">
+      <!-- Empty -->
+
+      <div class="scalar-empty">No scalar files loaded.</div>
+    </div>
+
+    <div class="scalar-footer">
+      <button
+        class="scalar-upload"
+        title="Import Scalar File"
+        on-click="@this.fire('importScalar')"
+      >
+        +
+      </button>
+    </div>
+  </div>
+
+  <!-- Parcel List Drawer -->
+  <div id="parcelListPanel" class="parcel-drawer">
+    <div class="parcel-list-header">
+      <span class="parcel-list-title"> Parcel List </span>
+      <button id="parcelListClose" class="parcel-list-close">×</button>
+    </div>
+
+    <div class="parcel-list-controls">
+      <select id="parcelListLevelSelect">
+        <option value="100" selected>Schaefer 100</option>
+        <option value="200">Schaefer 200</option>
+        <option value="300">Schaefer 300</option>
+        <option value="400">Schaefer 400</option>
+        <option value="500">Schaefer 500</option>
+        <option value="600">Schaefer 600</option>
+        <option value="700">Schaefer 700</option>
+        <option value="800">Schaefer 800</option>
+        <option value="900">Schaefer 900</option>
+        <option value="1000">Schaefer 1000</option>
+        <option value="90">AAL </option>
+        <option value="360">HCP </option>
+      </select>
+      <input
+        id="parcelListFilter"
+        class="parcel-list-filter"
+        type="text"
+        placeholder="Filter..."
+        autocomplete="off"
+      />
+    </div>
+
+    <div id="parcelListContent" class="parcel-list-content">
+      <div class="parcel-list-empty">Select an atlas level to view parcels.</div>
+    </div>
+  </div>
+
+  <!-- View1 -->
+  <div id="view1Container" class="view-container">
+    <div id="view1"></div>
+
+    <div class="view-atlas-label">
+      <select id="viewAtlasSelect1" class="view-atlas-select">
+        <option value="schaefer">Schaefer</option>
+        <option value="aal90">AAL</option>
+        <option value="hcp360">HCP</option>
+      </select>
+    </div>
+
+    <div class="atlasControl">
+      <input
+        id="slider1"
+        class="atlasSlider"
+        type="range"
+        min="0"
+        max="9"
+        step="1"
+        value="0"
+      />
+
+      <div id="sliderBubble1" class="sliderBubble">100 parcels</div>
+    </div>
+
+    <div class="view-colorbar" id="colorbar1"></div>
+  </div>
+
+  <!-- View2 -->
+  <div id="view2Container" class="view-container">
+    <div id="view2"></div>
+
+    <div class="view-atlas-label">
+      <select id="viewAtlasSelect2" class="view-atlas-select">
+        <option value="schaefer">Schaefer</option>
+        <option value="aal90">AAL</option>
+        <option value="hcp360">HCP</option>
+      </select>
+    </div>
+
+    <div class="atlasControl">
+      <input
+        id="slider2"
+        class="atlasSlider"
+        type="range"
+        min="0"
+        max="9"
+        step="1"
+        value="0"
+      />
+
+      <div id="sliderBubble2" class="sliderBubble">100 parcels</div>
+    </div>
+
+    <div class="view-colorbar" id="colorbar2"></div>
+  </div>
+
+  <!-- View3 -->
+  <div id="view3Container" class="view-container">
+    <div id="view3"></div>
+
+    <div class="view-atlas-label">
+      <select id="viewAtlasSelect3" class="view-atlas-select">
+        <option value="schaefer">Schaefer</option>
+        <option value="aal90">AAL</option>
+        <option value="hcp360">HCP</option>
+      </select>
+    </div>
+
+    <div class="atlasControl">
+      <input
+        id="slider3"
+        class="atlasSlider"
+        type="range"
+        min="0"
+        max="9"
+        step="1"
+        value="0"
+      />
+
+      <div id="sliderBubble3" class="sliderBubble">100 parcels</div>
+    </div>
+
+    <div class="view-colorbar" id="colorbar3"></div>
+  </div>
+
+  <!-- View4 -->
+  <div id="view4Container" class="view-container">
+    <div id="view4"></div>
+
+    <div class="view-atlas-label">
+      <select id="viewAtlasSelect4" class="view-atlas-select">
+        <option value="schaefer">Schaefer</option>
+        <option value="aal90">AAL</option>
+        <option value="hcp360">HCP</option>
+      </select>
+    </div>
+
+    <div class="atlasControl">
+      <input
+        id="slider4"
+        class="atlasSlider"
+        type="range"
+        min="0"
+        max="9"
+        step="1"
+        value="0"
+      />
+
+      <div id="sliderBubble4" class="sliderBubble">100 parcels</div>
+    </div>
+
+    <div class="view-colorbar" id="colorbar4"></div>
+  </div>
+
+  <!-- View5 -->
+  <div id="view5Container" class="view-container">
+    <div id="view5"></div>
+
+    <div class="view-atlas-label">
+      <select id="viewAtlasSelect5" class="view-atlas-select">
+        <option value="schaefer">Schaefer</option>
+        <option value="aal90">AAL</option>
+        <option value="hcp360">HCP</option>
+      </select>
+    </div>
+
+    <div class="atlasControl">
+      <input
+        id="slider5"
+        class="atlasSlider"
+        type="range"
+        min="0"
+        max="9"
+        step="1"
+        value="0"
+      />
+
+      <div id="sliderBubble5" class="sliderBubble">100 parcels</div>
+    </div>
+
+    <div class="view-colorbar" id="colorbar5"></div>
+  </div>
+
+  <!-- View6 -->
+  <div id="view6Container" class="view-container">
+    <div id="view6"></div>
+
+    <div class="view-atlas-label">
+      <select id="viewAtlasSelect6" class="view-atlas-select">
+        <option value="schaefer">Schaefer</option>
+        <option value="aal90">AAL</option>
+        <option value="hcp360">HCP</option>
+      </select>
+    </div>
+
+    <div class="atlasControl">
+      <input
+        id="slider6"
+        class="atlasSlider"
+        type="range"
+        min="0"
+        max="9"
+        step="1"
+        value="0"
+      />
+
+      <div id="sliderBubble6" class="sliderBubble">100 parcels</div>
+    </div>
+
+    <div class="view-colorbar" id="colorbar6"></div>
+  </div>
+</div>
+
+
+
+<!-- 控制按钮 -->
+<div class="controlbar">
+  <!-- 左脑 -->
+  <div class="hemi-switch">
+    <label class="switch">
+      <input
+        type="checkbox"
+        id="leftToggle"
+        checked
+      />
+      <span class="slider round"></span>
+    </label>
+
+    <span>Left</span>
+  </div>
+
+  <!-- 右脑 -->
+  <div class="hemi-switch">
+    <label class="switch">
+      <input
+        type="checkbox"
+        id="rightToggle"
+        checked
+      />
+      <span class="slider round"></span>
+    </label>
+
+    <span>Right</span>
+  </div>
+
+  <!-- 脑区显示控制 -->
+  <div class="tool-group">
+    <!-- 标签 -->
+    <button id="labelToggle" class="tool-btn" on-click="toggleLabels">
+      Labels
+    </button>
+
+    <!-- HCP颜色模式切换 -->
+    <button id="hcpColorModeBtn" class="tool-btn color-mode-btn" on-click="toggleHCPColorMode" style="display:none;">
+      HCP Color
+    </button>
+  </div>
+
+  <!-- 操作控制 -->
+  <div class="tool-group">
+    <button class="tool-btn" on-click="resetParcels">↻ Reset</button>
+  </div>
+
+  <!-- 相机视角 -->
+  <div class="tool-group">
+    <button class="tool-btn" on-click="topview">Top</button>
+
+    <button class="tool-btn" on-click="bottomview">Bottom</button>
+
+    <button class="tool-btn" on-click="frontview">Front</button>
+
+    <button class="tool-btn" on-click="backview">Back</button>
+
+    <button class="tool-btn" on-click="leftview">Left</button>
+
+    <button class="tool-btn" on-click="rightview">Right</button>
+  </div>
+  <!-- Parcel Analysis -->
+  <div class="tool-group parcel-analysis">
+    <div class="analysis-title">Parcel</div>
+
+    <div class="analysis-info">
+      <span> ID: </span>
+
+      <strong> {{selectedParcelId}} </strong>
+
+      <span> Level: </span>
+
+      <strong> {{selectedLevel}} </strong>
+    </div>
+
+    <select value="{{fcKMode}}">
+      <option value="5">Top 5</option>
+
+      <option value="10">Top 10</option>
+
+      <option value="20">Top 20</option>
+
+      <option value="50">Top 50</option>
+
+      <option value="custom">Custom</option>
+    </select>
+
+    <input
+      type="number"
+      min="1"
+      max="{{fcMaxK}}"
+      value="{{fcCustomK}}"
+      disabled="{{fcKMode !== 'custom'}}"
+      style="
+        width: 70px;
+        height: 32px;
+        border-radius: 8px;
+        border: 1px solid var(--border);
+        background: var(--button-bg);
+        color: var(--text-color);
+      "
+    />
+
+    <button class="tool-btn" on-click="showFC">FC</button>
+  </div>
+</div>
+
+<!-- 加载进度条 -->
+
+<div id="loadingPanel">
+  <div id="loadingText">Loading ...</div>
+
+  <div id="progressContainer">
+    <div id="progressBar"></div>
+  </div>
+
+  <div id="progressPercent">0%</div>
+</div>
+
+<div id="fcPanel" class="fc-panel" style="display: none">
+  <div class="fc-header">
+    <span> Functional Connectivity </span>
+
+    <button class="fc-close">×</button>
+  </div>
+
+  <div class="fc-info">
+    <div>
+      Parcel:
+      <span id="fcParcelName"> </span>
+    </div>
+
+    <div>
+      Network:
+      <span id="fcNetwork"> </span>
+    </div>
+
+    <div>
+      Level:
+      <span id="fcLevel"> </span>
+    </div>
+  </div>
+
+  <div class="fc-chart">
+    <canvas id="fcChart"></canvas>
+  </div>
+
+  <input
+    id="scalarFileInput"
+    type="file"
+    accept=".csv,.txt,.json"
+    style="display: none"
+  />
+</div>
+
+<!-- Export Panel -->
+<div id="exportPanelOverlay" class="export-panel-overlay" style="display: none">
+  <div id="exportPanel" class="export-panel" style="display: none">
+    <div class="export-panel-header">
+      <h2>Export Image</h2>
+      <button class="export-close-btn" id="exportCloseBtn">&times;</button>
+    </div>
+    <div class="export-panel-body">
+      <div class="export-sidebar">
+        <div class="export-section">
+          <h3>View Selection</h3>
+          <div class="view-angle-grid" id="viewAngleGrid"></div>
+          <button class="export-btn secondary" id="captureViewsBtn">Capture Selected Views</button>
+        </div>
+
+        <div class="export-section">
+          <h3>Image Layout</h3>
+          <div class="layout-grid" id="layoutGrid">
+            <button class="layout-btn active" data-layout="single">Single</button>
+            <button class="layout-btn" data-layout="horizontal">Horizontal</button>
+            <button class="layout-btn" data-layout="vertical">Vertical</button>
+            <button class="layout-btn" data-layout="grid2x2">2×2 Grid</button>
+            <button class="layout-btn" data-layout="grid3x2">3×2 Grid</button>
+            <button class="layout-btn" data-layout="grid3x3">3×3 Grid</button>
+          </div>
+        </div>
+
+        <div class="export-section">
+          <h3>Background</h3>
+          <div class="bg-color-picker">
+            <input type="color" id="bgColorPicker" value="#020617">
+            <div class="bg-presets">
+              <button class="bg-preset" data-color="#020617" style="background: #020617;"></button>
+              <button class="bg-preset" data-color="#f5f7fb" style="background: #f5f7fb;"></button>
+              <button class="bg-preset" data-color="#ffffff" style="background: #ffffff;"></button>
+              <button class="bg-preset" data-color="#1a1a2e" style="background: #1a1a2e;"></button>
+              <button class="bg-preset" data-color="transparent" title="Transparent"></button>
+            </div>
+          </div>
+          <label class="checkbox-label">
+            <input type="checkbox" id="showGridCheckbox">
+            <span>Show Grid</span>
+          </label>
+        </div>
+
+        <div class="export-section">
+          <h3>Components</h3>
+          <div class="component-buttons">
+            <button class="component-btn" data-component="legend">Legend</button>
+            <button class="component-btn" data-component="colorbar_h">Colorbar (H)</button>
+            <button class="component-btn" data-component="colorbar_v">Colorbar (V)</button>
+          </div>
+          <div class="component-list" id="componentList"></div>
+        </div>
+
+        <div class="export-section">
+          <h3>Output Settings</h3>
+          <div class="output-settings">
+            <div class="setting-row">
+              <label>Format</label>
+              <select id="formatSelect">
+                <option value="png" selected>PNG</option>
+                <option value="jpg">JPG</option>
+                <option value="svg">SVG</option>
+              </select>
+            </div>
+            <div class="setting-row">
+              <label>DPI</label>
+              <select id="dpiSelect">
+                <option value="72">72 DPI (Screen)</option>
+                <option value="150">150 DPI (Draft)</option>
+                <option value="300" selected>300 DPI (Print)</option>
+                <option value="600">600 DPI (HD)</option>
+                <option value="custom">Custom</option>
+              </select>
+            </div>
+            <div class="setting-row" id="customDpiRow" style="display: none;">
+              <label>Custom DPI</label>
+              <input type="number" id="customDpiInput" min="1" max="1200" value="300">
+            </div>
+            <div class="setting-row">
+              <label>Canvas Size</label>
+              <select id="sizeSelect">
+                <option value="custom">Custom</option>
+                <option value="1920x1080">1920×1080 (FHD)</option>
+                <option value="2560x1440">2560×1440 (2K)</option>
+                <option value="3840x2160">3840×2160 (4K)</option>
+                <option value="1080x1080">1080×1080 (Square)</option>
+                <option value="1080x1920">1080×1920 (Portrait)</option>
+                <option value="A4">A4 (2480×3508)</option>
+                <option value="A3">A3 (3508×4961)</option>
+              </select>
+            </div>
+            <div class="setting-row" id="customSizeRow">
+              <label>W × H</label>
+              <div class="size-inputs">
+                <input type="number" id="widthInput" value="1920" min="100" max="10000">
+                <span>×</span>
+                <input type="number" id="heightInput" value="1080" min="100" max="10000">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="export-preview">
+        <div class="preview-header">
+          <h3>Canvas Preview</h3>
+          <div class="preview-actions">
+            <button class="export-btn small" id="refreshPreviewBtn">Refresh</button>
+          </div>
+        </div>
+        <div class="image-size-controls" id="imageSizeControls"></div>
+        <div class="preview-canvas-container" id="previewContainer"></div>
+      </div>
+    </div>
+
+    <div class="export-panel-footer">
+      <button class="export-btn primary" id="exportBtn">Export</button>
+    </div>
+  </div>
+</div>
